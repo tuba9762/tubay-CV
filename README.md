@@ -1,5 +1,5 @@
 # tubay-CV
-<title>HTML.CV</title>
+
 </head>
 <body>
    <h1>CV</h1> 
